@@ -4,14 +4,14 @@ Le dataset il va parler mon copain
 Le but est de mettre en commun le travail pour le projet de valorisation de données. Les analyses sont faites en R.
 
 ## DATASET
-Le dataset à explorer est [celui-ci](https://www.kaggle.com/datasets/deeplumiere/load-pred-dataset) et le but est de le nettoyer puis pratiquer certaines analyses statistiques de plus en plus poussées, pour finalement faire de la prédiction de features. Ici, on tentera de prédire les chances de remboursement d'un prêt d'argent par une banque en fonction d'une 20aine de features initiales.
+Le dataset à explorer est [celui-ci](https://www.kaggle.com/datasets/deeplumiere/load-pred-dataset) et le but est de le nettoyer puis pratiquer certaines analyses statistiques de plus en plus poussées, pour finalement faire de la prédiction de features. Ici, on tentera de prédire les chances de remboursement d'un prêt d'argent effectué par des clients auprès d'une banque en fonction d'une 20aine de features initiales.
 
 ## Process 
 ### Setup de l'environnement
 - Cloner le projet en local pour implémenter du code
 - Ouvrir la racine du projet dans vscode
 - importer l'environnemnt virtuel conda (si conda déjà sur la machine) de la manière suivante :
-  ```bash conda env export --from-history > environment.yml```
+  ```conda env export --from-history > environment.yml```
 
 - Installer l'extension R sur VScode
 - Activer l'environnement et le kernel pour coder et faire tourner du code
