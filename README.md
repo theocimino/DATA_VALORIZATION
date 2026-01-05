@@ -11,10 +11,10 @@ Le dataset à explorer est [celui-ci](https://www.kaggle.com/datasets/deeplumier
 - Cloner le projet en local pour implémenter du code
 - Ouvrir la racine du projet dans vscode
 - importer l'environnemnt virtuel conda (si conda déjà sur la machine) de la manière suivante :
-  ```conda env export --from-history > environment.yml```
+  ```conda env create -f environment.yml```
 
 - Installer l'extension R sur VScode
-- Activer l'environnement et le kernel pour coder et faire tourner du code
+- Activer l'environnement : ```conda activate r-env``` puis le kernel pour coder et faire tourner du code
 
 ### Implémentation du code
 
