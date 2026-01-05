@@ -22,8 +22,8 @@ C'est chill alors on peut push du code sur une branche personnelle ou bien direc
 Quoi qu'il en soit pour mettre en commun le code : 
 ```bash
 # 1. Récupérer le projet une fois
-git clone <url>
-cd <projet>
+git clone https://github.com/theocimino/DATA_VALORIZATION.git
+cd <chemin_vers_le_dossier_cloné>
 
 # 2. Avant de commencer une nouvelle tâche
 git checkout main
