@@ -1,0 +1,8 @@
+name: r-env
+channels:
+  - defaults
+dependencies:
+  - r-base
+  - r-irkernel
+  - jupyter
+prefix: C:\Users\theoc\miniconda3\envs\r-env
