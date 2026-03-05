@@ -1,0 +1,21 @@
+2eme Partie :
+
+- Présentation orale enregistrée (10 minutes en vidéo)
+
+- Vous devez présenter une analyse avancée (régression logistique, arbre de décision, réseau de neurones, etc.)
+
+- Le cahier de laboratoire final doit être téléchargé sur le site web du cours. Il doit être facile à suivre (bien commenté).
+
+Contenu requis :
+
+1. Approche statistique avancée : Quelle méthode choisissez-vous et pourquoi ?
+
+2. Description de l'approche statistique avancée : Comment la méthode fonctionne-t-elle d'un point de vue théorique ?
+
+3. Mesure de la performance : Comment mesurez-vous la qualité de votre traitement des données ?
+
+4. Prétraitement des données : Comment préparez-vous les données pour l'approche statistique avancée ?
+
+5. Analyse des résultats : Quels résultats obtenez-vous ? Sont-ils bons et précis ?
+
+6. Conclusion : Est-il possible d'améliorer vos résultats ? Si oui, comment ? Sinon, pourquoi ?
